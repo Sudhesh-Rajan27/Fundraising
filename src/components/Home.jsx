@@ -13,7 +13,7 @@ const Home = () => {
           className="absolute inset-0 w-full h-full object-cover brightness-50"
         />
         <h1 className="relative text-6xl font-bold text-white">
-          Fund <span className="text-green-400">Help Others</span>
+          Fundraising <span className="text-green-400">Help Others</span>
         </h1>
         <button 
           className="relative mt-6 px-6 py-3 bg-green-500 text-white rounded-full text-lg font-semibold"
